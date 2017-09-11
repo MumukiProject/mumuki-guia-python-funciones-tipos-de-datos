@@ -1,4 +1,4 @@
-¿Y que podemos hacer con los strings, además de compararlos? ¡Varias cosas! Por ejemplo, podemos preguntarles cual es su cantidad de letras:
+¿Y qué podemos hacer con los strings, además de compararlos? ¡Varias cosas! Por ejemplo, podemos preguntarles cuál es su cantidad de letras:
 
 ```javascript
 ム longitud("biblioteca")
