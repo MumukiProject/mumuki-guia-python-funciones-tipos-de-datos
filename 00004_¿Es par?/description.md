@@ -9,5 +9,5 @@ true
 ```
 
 > Escribí, y probá en la consola, la función `esPar`. 
-> Acordate de que te podemos dar algunos tips si hacés click en _¿Necesitas Ayuda?_
+> Acordate de que te podemos dar algunos tips si hacés click en _¡Dame una pista!_
 
