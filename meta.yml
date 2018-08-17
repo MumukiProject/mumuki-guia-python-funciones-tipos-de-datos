@@ -12,6 +12,7 @@ teacher_info: "* Funciones y Tipos de Datos, revisado\n  \n¡Hola! Quizás no te
 language: javascript
 id_format: "%05d"
 order:
+- 18
 - 1
 - 2
 - 16
@@ -28,4 +29,3 @@ order:
 - 12
 - 7
 - 3
-- 18
