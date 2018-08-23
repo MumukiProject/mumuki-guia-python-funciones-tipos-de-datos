@@ -1,17 +1,12 @@
 Quizás ya lo notaste pero, junto al editor, ahora aparece una solapa nueva: la _consola_.
 
-La consola es una herramienta muy útil para hacer pruebas rápidas sobre lo que estás haciendo: te permite, por ejemplo, probar _expresiones_, funciones que vengan con JavaScript, **o incluso funciones que vos definas en el editor**.
+La consola es una herramienta muy útil para hacer pruebas rápidas sobre lo que estás haciendo: te permite, por ejemplo, probar _expresiones_, funciones que vengan con JavaScript, **o incluso funciones que vos definas en el editor**. 
 
-Por eso muchas veces daremos ejemplos usando la consola. Si escribimos:
+La podés reconocer fácilmente porque arranca con el chirimbolito `ム`, que se llama _[prompt](https://es.wikipedia.org/wiki/Prompt)_.
 
+Para entender mejor cómo funciona, en qué puede ayudarnos y algunos consejos sobre su uso, te recomendamos mirar este video:
 
-```javascript
-ム absoluto(-20)
-20
-```
-
-estamos dando un ejemplo que muestra qué sucede cuando probás la función `absoluto` en la consola. Los podés reconocer fácilmente porque arrancan todos con el chirimbolito `ム`, que se llama _[prompt](https://es.wikipedia.org/wiki/Prompt)_.
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X8_vRm695B8?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 > Veamos si se entiende, probá en la consola las siguientes expresiones:
 >
 >   * `4 + 5`
