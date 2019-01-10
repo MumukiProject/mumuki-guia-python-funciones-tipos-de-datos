@@ -1,4 +1,4 @@
-Perfecto, ¿viste que no era tan terrible?
+Perfecto, ¿viste que no era tan terrible? :stuck_out_tongue_winking_eye:
 
 Si no le pusiste `;` al final de la sentencia habrás visto que funciona igual. De todas formas ponelo, ya que de esa manera evitamos posibles problemas.
 
