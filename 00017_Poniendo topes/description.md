@@ -18,7 +18,7 @@ Pero como no queremos que te quedes en negativo, si el monto a extraer es mayor 
 
 Como ves, esto es _casi_ una resta entre `saldo` y `monto`, con la salvedad de que estamos poniendo un _tope inferior_: no puede dar menos de cero :open_mouth:. 
 
-En otras palabras (¡preparete!, esto te puede volar la cabeza :bomb:) `extraer` **devuelve el máximo** entre la resta `saldo - monto`  y `0`. 
+En otras palabras (¡preparate!, esto te puede volar la cabeza :bomb:) `extraer` **devuelve el máximo** entre la resta `saldo - monto`  y `0`. 
 
 > ¿Te animás a completar la solución que está en el editor?
 > 
