@@ -1,4 +1,4 @@
-Muchas veces queremos escribir programas que trabajen con texto :page_facing_up:: queremos saber cuántas palabras hay en un libro, o convertir minúsculas a mayúsculas, o saber en que parte de un texto está otro. 
+Muchas veces queremos escribir programas que trabajen con texto :page_facing_up:: queremos saber cuántas palabras hay en un libro, o convertir minúsculas a mayúsculas, o saber en qué parte de un texto está otro. 
 
 Para este tipo de problemas tenemos los _strings_, también llamados _cadenas de caracteres_: 
 
