@@ -8,7 +8,7 @@ Necesitamos una función que diga cuánta plata queda en tu cuenta (que tiene un
 70 //quedan $70 ($100 - $30 =  $70) 
 ```
 
-Pero como no queremos que te quedes en negativo, si el monto a extraer es mayor al saldo, nuestro saldo debe quedar en cero. 
+Pero como no queremos quedarnos en negativo, si el monto a extraer es mayor al saldo, nuestro saldo debe quedar en cero. 
 
 ```javascript
 ム extraer(100, 120)

@@ -1,3 +1,3 @@
 ¡Bien hecho!
 
-Ya fueron muchas cuentas por ahora, ¿no? Exploremos algo más interesante: los `string`s. 
+Ya fueron suficientes cuentas por ahora, ¿no? Exploremos algo más interesante: los `string`s. 

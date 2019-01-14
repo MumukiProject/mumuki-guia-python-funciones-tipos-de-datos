@@ -1,6 +1,6 @@
 Ahora te toca a vos: tenemos que cargar un calefón con agua :potable_water:. No parece una tarea difícil pero tenemos que tener en cuenta algunas cosas:
 
-* El calefón tiene 25 litros
+* La capacidad del calefón es de 25 litros
 * No está completamente vacío, sino que tiene algo de agua
 * Si cargo el calefón con más agua de la que cabe en el recipiente, rebalsa.
 
