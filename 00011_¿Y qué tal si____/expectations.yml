@@ -5,7 +5,7 @@ expectations:
   inspection: Not:Uses:max
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: maximo
-  inspection: Not:Uses:Math.abs
+  inspection: Not:Uses:abs
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: maximo
   inspection: Not:Uses:Math.round
