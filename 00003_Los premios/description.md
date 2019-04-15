@@ -5,9 +5,6 @@ El jurado de un torneo nos pidió que desarrollemos una función `medalla_segun_
 * tercer puesto: le corresponde `"bronce"`
 * otros puestos: le corresponde `"nada"`
 
-
-Ejemplo:
-
 ```python
 ム medalla_segun_puesto(1)
 "oro"
