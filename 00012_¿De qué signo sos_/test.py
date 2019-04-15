@@ -11,4 +11,7 @@
   def test_signo_menos_65_es_menos_1(self):
     self.assertEqual(signo(-65), -1)
 
+  def test_signo_menos_87_es_menos_1(self):
+    self.assertEqual(signo(-87), -1)
+
 
