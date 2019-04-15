@@ -12,6 +12,6 @@ En Python existe el operador `%`, que calcula el resto de dividir un número por
 0 // porque 2 * 2 + 0 = 4
 ```
 
-También contamos con otro operador: `===`, que nos dice si dos valores son iguales. Por ejemplo `4 === 5` o `10 === 10`.
+También contamos con otro operador: `==`, que nos dice si dos valores son iguales. Por ejemplo `4 == 5` o `10 == 10`.
 
 Decimos que un número es par cuando, al dividirlo por 2, el resto da 0 :smirk:

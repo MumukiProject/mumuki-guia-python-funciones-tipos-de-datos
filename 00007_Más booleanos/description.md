@@ -7,9 +7,9 @@ Supongamos que queremos desarrollar una función `esMayorDeEdad`, que nos diga s
 ```python
 function esMayorDeEdad(edad) {
   if (edad >= 18) {
-    return true;
+    return True;
   } else {
-    return false;
+    return False;
   }
 }
 ```

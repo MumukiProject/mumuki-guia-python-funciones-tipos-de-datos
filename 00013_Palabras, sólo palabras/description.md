@@ -11,19 +11,19 @@ Como se observa, todos los strings están encerrados entre comillas simples o do
 ¿Y qué podemos hacer con los strings? Por ejemplo, compararlos, como a cualquier otro valor:
 
 ```python
-ム "hola" === "Hola"
-false
+ム "hola" == "Hola"
+False
 
-ム "todo el mundo" === "todo el mundo"
-true
+ム "todo el mundo" == "todo el mundo"
+True
 ```
 
 > Veamos si queda claro: escribí la función `esFinDeSemana` que tome un string que represente el nombre de un día de la semana, y nos diga si es `"sábado"` o `"domingo"`
 >
 > ```python
 > ム esFinDeSemana("sábado")
-> true
+> True
 > ム esFinDeSemana("martes")
-> false
+> False
 > ```
 

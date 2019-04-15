@@ -13,12 +13,12 @@ Ahora miremos a los booleanos con un poco más de detalle:
 >
 > ```python
 > ム estaEntre(3, 1, 10)
-> true
+> True
 > ム estaEntre(90, 1, 10)
-> false
+> False
 > ム estaEntre(10, 1, 10)
-> false
+> False
 > ム estaFueraDeRango(17, 1, 10)
-> true
+> True
 > ```
 >

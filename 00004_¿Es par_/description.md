@@ -2,10 +2,10 @@ Hagamos una función más: `esPar`, que nos dice si un número es divisible por 
 
 ```python
 ム esPar(3)
-false
+False
 
 ム esPar(42)
-true
+True
 ```
 
 > Escribí, y probá en la consola, la función `esPar`.

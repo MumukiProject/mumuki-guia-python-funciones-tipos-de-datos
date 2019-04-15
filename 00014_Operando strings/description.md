@@ -20,9 +20,9 @@ O podemos preguntarles si uno comienza con otro:
 
 ```python
 ム comienzaCon("una página", "una")
-true
+True
 ム comienzaCon("la biblioteca", "todos los fuegos")
-false
+False
 ```
 
 > Veamos si queda claro: escribí una función `longitudNombreCompleto`, que tome un nombre y un apellido, y devuelva su longitud total, contando un espacio extra para separar a ambos:

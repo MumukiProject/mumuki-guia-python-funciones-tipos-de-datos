@@ -1,5 +1,5 @@
 function longitud(secuencia) {
-  return secuencia.length; 
+  return secuencia.length;
 }
 function rango(s, e) {
   let r = [];

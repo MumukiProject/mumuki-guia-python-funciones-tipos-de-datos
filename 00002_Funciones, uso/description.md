@@ -9,29 +9,29 @@ doble(3)
 Y además podemos usarlas dentro de otras funciones. Por ejemplo:
 
 ```python
-function doble(numero) {
-  return 2 * numero;
-}
+def doble(numero):
+  return 2 * numero
 
-function siguienteDelDoble(numero) {
-   return doble(numero) + 1;
-}
+
+def siguienteDelDoble(numero):
+  return doble(numero) + 1
+
 ```
 
 O incluso mejor:
 
 ```python
-function doble(numero) {
-  return 2 * numero;
-}
+def doble(numero):
+  return 2 * numero
 
-function siguiente(numero) {
-  return numero + 1;
-}
 
-function siguienteDelDoble(numero) {
-   return siguiente(doble(numero));
-}
+def siguiente(numero):
+  return numero + 1
+
+
+def siguienteDelDoble(numero):
+  return siguiente(doble(numero));
+
 ```
 
 > Veamos si se entiende; escribí las siguientes funciones:
