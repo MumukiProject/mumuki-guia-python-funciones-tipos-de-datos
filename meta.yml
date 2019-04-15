@@ -12,7 +12,6 @@ teacher_info: "* Funciones y Tipos de Datos, revisado\n  \n¡Hola! Quizás no te
 language: python
 id_format: "%05d"
 order:
-- 18
 - 1
 - 2
 - 16
