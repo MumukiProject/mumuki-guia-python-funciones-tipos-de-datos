@@ -1,6 +1,6 @@
 ¿Cómo funciona `esMultiploDe`? Aquí te pasamos algunos ejemplos de uso:
 
-```javascript
+```python
 ム esMultiploDe(5, 27)
 false //porque 27 no es múltiplo de 5
 

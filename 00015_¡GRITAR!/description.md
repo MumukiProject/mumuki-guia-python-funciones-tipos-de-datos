@@ -2,7 +2,7 @@ Una conocida banda, para agregar gritos varios a su canción, nos pidió que des
 
 Por ejemplo:
 
-```javascript
+```python
 ム gritar("miguel")
 "¡MIGUEL!"
 ```

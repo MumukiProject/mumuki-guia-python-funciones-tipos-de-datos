@@ -11,7 +11,7 @@ Ahora miremos a los booleanos con un poco más de detalle:
 >
 > Ejemplos:
 >
-> ```javascript
+> ```python
 > ム estaEntre(3, 1, 10)
 > true
 > ム estaEntre(90, 1, 10)

@@ -1,7 +1,7 @@
-En JavaScript existe el operador `%`, que calcula el resto de dividir un número por otro. Por ejemplo:
+En Python existe el operador `%`, que calcula el resto de dividir un número por otro. Por ejemplo:
 
 
-```javascript
+```python
 ム 5 % 2
 1 // porque 2 * 2 + 1 = 5
 

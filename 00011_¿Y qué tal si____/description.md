@@ -1,7 +1,7 @@
-Ninguna introducción al lenguaje JavaScript estaría completa sin mostrar al menos una estructura de control que ya conocemos: la alternativa condicional. Veamos un ejemplo:
+Ninguna introducción al lenguaje Python estaría completa sin mostrar al menos una estructura de control que ya conocemos: la alternativa condicional. Veamos un ejemplo:
 
 
-```javascript
+```python
 //Equivalente a Math.abs
 function valorAbsoluto(unNumero) {
    if (unNumero >= 0) {

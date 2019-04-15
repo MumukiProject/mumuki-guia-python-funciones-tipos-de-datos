@@ -9,7 +9,7 @@ teacher_info: "* Funciones y Tipos de Datos, revisado\n  \n¡Hola! Quizás no te
   igual podemos hacer muchas cosas!\n\n   * Functions, declaración\n    > \n   * Functions,
   uso\n   * Tipos de datos, introduccion\n   * Booleanos\n   * ¡Más cuentas!\n   *
   Tirando los dados\n   * ¿Y que tal si...?"
-language: javascript
+language: python
 id_format: "%05d"
 order:
 - 18
