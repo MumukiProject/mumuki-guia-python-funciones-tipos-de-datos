@@ -1,25 +1,22 @@
 Para cerrar, ahora que ya vimos cómo escribir la alternativa condicional, es momento de un pequeño recordatorio:
 si usás adecuadamente las expresiones booleanas, ¡no es necesario utilizar esta estructura de control!
 
-Supongamos que queremos desarrollar una función `esMayorDeEdad`, que nos diga si alguien tiene
+Supongamos que queremos desarrollar una función `es_mayor_de_edad`, que nos diga si alguien tiene
 18 años o más. Una tentación es escribir lo siguiente:
 
 ```python
-function esMayorDeEdad(edad) {
-  if (edad >= 18) {
-    return True;
-  } else {
-    return False;
-  }
-}
+def es_mayor_de_edad(edad):
+  if edad >= 18:
+    return True
+  else:
+    return False
 ```
 
 Sin embargo, **este `if` es totalmente innecesario**, dado que la expresión `edad >= 18` ya es booleana:
 
 ```python
-function esMayorDeEdad(edad) {
-  return edad >= 18;
-}
+def es_mayor_de_edad(edad):
+  return edad >= 18
 ```
 
 Mucho más simple, ¿no? :wink:
@@ -32,4 +29,4 @@ Mucho más simple, ¿no? :wink:
 >
 > Escribí la función `esNumeroDeLaSuerte` que dado un número diga si cumple la lógica anterior.
 >
-> ¡No vale usar `if`! Pero podés usar la función `esMultiploDe`, que recibe dos números y te dice si el segundo es múltiplo del primero.
+> ¡No vale usar `if`! Pero podés usar la función `es_multiplo_de`, que recibe dos números y te dice si el segundo es múltiplo del primero.

@@ -1,13 +1,13 @@
-Hagamos una función más: `esPar`, que nos dice si un número es divisible por 2. Por ejemplo:
+Hagamos una función más: `es_par`, que nos dice si un número es divisible por 2. Por ejemplo:
 
 ```python
-ム esPar(3)
+ム es_par(3)
 False
 
-ム esPar(42)
+ム es_par(42)
 True
 ```
 
-> Escribí, y probá en la consola, la función `esPar`.
+> Escribí, y probá en la consola, la función `es_par`.
 > Acordate de que te podemos dar algunos tips si hacés click en _¡Dame una pista!_
 

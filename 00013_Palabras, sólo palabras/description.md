@@ -18,12 +18,12 @@ False
 True
 ```
 
-> Veamos si queda claro: escribí la función `esFinDeSemana` que tome un string que represente el nombre de un día de la semana, y nos diga si es `"sábado"` o `"domingo"`
+> Veamos si queda claro: escribí la función `es_fin_de_semana` que tome un string que represente el nombre de un día de la semana, y nos diga si es `"sábado"` o `"domingo"`
 >
 > ```python
-> ム esFinDeSemana("sábado")
+> ム es_fin_de_semana("sábado")
 > True
-> ム esFinDeSemana("martes")
+> ム es_fin_de_semana("martes")
 > False
 > ```
 

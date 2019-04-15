@@ -3,13 +3,13 @@ En Python existe el operador `%`, que calcula el resto de dividir un número por
 
 ```python
 ム 5 % 2
-1 // porque 2 * 2 + 1 = 5
+1 # porque 2 * 2 + 1 = 5
 
 ム 11 % 3
-2 // porque 3 * 3 + 2 = 11
+2 # porque 3 * 3 + 2 = 11
 
 ム 4 % 2
-0 // porque 2 * 2 + 0 = 4
+0 # porque 2 * 2 + 0 = 4
 ```
 
 También contamos con otro operador: `==`, que nos dice si dos valores son iguales. Por ejemplo `4 == 5` o `10 == 10`.

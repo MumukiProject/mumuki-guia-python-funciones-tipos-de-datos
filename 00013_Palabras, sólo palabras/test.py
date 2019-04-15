@@ -1,14 +1,14 @@
 describe("", function() {
-  it('esFinDeSemana("sábado")', function() {
-    assert(esFinDeSemana("sábado"));
+  it('es_fin_de_semana("sábado")', function() {
+    assert(es_fin_de_semana("sábado"));
   });
-  it('esFinDeSemana("domingo")', function() {
-    assert(esFinDeSemana("domingo"));
+  it('es_fin_de_semana("domingo")', function() {
+    assert(es_fin_de_semana("domingo"));
   });
-  it('esFinDeSemana("lunes")', function() {
-    assert(!esFinDeSemana("lunes"));
+  it('es_fin_de_semana("lunes")', function() {
+    assert(!es_fin_de_semana("lunes"));
   })
-  it('esFinDeSemana("jueves")', function() {
-    assert(!esFinDeSemana("jueves"));
+  it('es_fin_de_semana("jueves")', function() {
+    assert(!es_fin_de_semana("jueves"));
   })
 })

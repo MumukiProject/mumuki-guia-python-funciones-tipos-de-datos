@@ -17,15 +17,15 @@ describe("triple", function() {
   });
 })
 
-describe("anteriorDelTriple", function() {
-  it("anteriorDelTriple(1) es 2", function() {
-    assert.equal(anteriorDelTriple(1), 2);
+describe("anterior_del_triple", function() {
+  it("anterior_del_triple(1) es 2", function() {
+    assert.equal(anterior_del_triple(1), 2);
   });
-  it("anteriorDelTriple(3) es 8", function() {
-    assert.equal(anteriorDelTriple(3), 8);
+  it("anterior_del_triple(3) es 8", function() {
+    assert.equal(anterior_del_triple(3), 8);
   });
-  it("anteriorDelTriple(10) es 29", function() {
-    assert.equal(anteriorDelTriple(10), 29);
+  it("anterior_del_triple(10) es 29", function() {
+    assert.equal(anterior_del_triple(10), 29);
   });
 })
 

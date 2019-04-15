@@ -1,8 +1,8 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: estaEntre
+  binding: esta_entre
   inspection: HasBinding
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: estaFueraDeRango
+  binding: esta_fuera_de_rango
   inspection: HasBinding

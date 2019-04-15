@@ -13,7 +13,7 @@ def doble(numero):
   return 2 * numero
 
 
-def siguienteDelDoble(numero):
+def siguiente_del_doble(numero):
   return doble(numero) + 1
 
 ```
@@ -29,7 +29,7 @@ def siguiente(numero):
   return numero + 1
 
 
-def siguienteDelDoble(numero):
+def siguiente_del_doble(numero):
   return siguiente(doble(numero));
 
 ```
@@ -38,5 +38,5 @@ def siguienteDelDoble(numero):
 >
 > * `anterior`: toma un número y devuelve ese número menos uno
 > * `triple`: devuelve el triple de un número
-> * `anteriorDelTriple`, que combina las dos funciones anteriores: multiplica a un número por 3 y le resta 1
+> * `anterior_del_triple`, que combina las dos funciones anteriores: multiplica a un número por 3 y le resta 1
 >

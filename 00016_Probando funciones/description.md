@@ -10,7 +10,7 @@ Para entender mejor cómo funciona, en qué puede ayudarnos y algunos consejos s
 > Veamos si se entiende, probá en la consola las siguientes expresiones:
 >
 >   * `4 + 5`
->   * `absoluto(-20)`
->   * `funcionLoca(1, 2, 3)` (asumí que ya la codificamos nosotros por vos)
+>   * `abs(-20)`
+>   * `funcion_misteriosa(1, 2, 3)` (asumí que ya la codificamos nosotros por vos)
 
 

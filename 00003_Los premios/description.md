@@ -1,4 +1,4 @@
-El jurado de un torneo nos pidió que desarrollemos una función `medallaSegunPuesto` que devuelva la medalla que le corresponde a los primeros puestos, según la siguiente lógica:
+El jurado de un torneo nos pidió que desarrollemos una función `medalla_segun_puesto` que devuelva la medalla que le corresponde a los primeros puestos, según la siguiente lógica:
 
 * primer puesto: le corresponde `"oro"`
 * segundo puesto: le corresponde `"plata"`
@@ -9,11 +9,11 @@ El jurado de un torneo nos pidió que desarrollemos una función `medallaSegunPu
 Ejemplo:
 
 ```python
-ム medallaSegunPuesto(1)
+ム medalla_segun_puesto(1)
 "oro"
-ム medallaSegunPuesto(5)
+ム medalla_segun_puesto(5)
 "nada"
 ```
 
-> Escribí, y probá en la consola, la función `medallaSegunPuesto`
+> Escribí, y probá en la consola, la función `medalla_segun_puesto`
 

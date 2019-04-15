@@ -1,20 +1,20 @@
 describe("", function() {
-  it("medallaSegunPuesto(1)", function() {
-    assert.equal(medallaSegunPuesto(1), "oro")
+  it("medalla_segun_puesto(1)", function() {
+    assert.equal(medalla_segun_puesto(1), "oro")
   })
-  it("medallaSegunPuesto(2)", function() {
-    assert.equal(medallaSegunPuesto(2), "plata")
+  it("medalla_segun_puesto(2)", function() {
+    assert.equal(medalla_segun_puesto(2), "plata")
   })
-  it("medallaSegunPuesto(3)", function() {
-    assert.equal(medallaSegunPuesto(3), "bronce")
+  it("medalla_segun_puesto(3)", function() {
+    assert.equal(medalla_segun_puesto(3), "bronce")
   })
-  it("medallaSegunPuesto(4)", function() {
-    assert.equal(medallaSegunPuesto(4), "nada")
+  it("medalla_segun_puesto(4)", function() {
+    assert.equal(medalla_segun_puesto(4), "nada")
   })
-  it("medallaSegunPuesto(5)", function() {
-    assert.equal(medallaSegunPuesto(5), "nada")
+  it("medalla_segun_puesto(5)", function() {
+    assert.equal(medalla_segun_puesto(5), "nada")
   })
-  it("medallaSegunPuesto(0)", function() {
-    assert.equal(medallaSegunPuesto(0), "nada")
+  it("medalla_segun_puesto(0)", function() {
+    assert.equal(medalla_segun_puesto(0), "nada")
   })
 })

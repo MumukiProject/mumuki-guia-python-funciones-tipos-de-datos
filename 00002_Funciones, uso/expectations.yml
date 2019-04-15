@@ -1,10 +1,10 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: anteriorDelTriple
+  binding: anterior_del_triple
   inspection: Uses:triple
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: anteriorDelTriple
+  binding: anterior_del_triple
   inspection: Uses:anterior
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: triple
@@ -13,5 +13,5 @@ expectations:
   binding: anterior
   inspection: Uses
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: anteriorDelTriple
+  binding: anterior_del_triple
   inspection: Uses
