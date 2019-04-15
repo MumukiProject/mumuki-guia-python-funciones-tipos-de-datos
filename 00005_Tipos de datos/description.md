@@ -3,7 +3,7 @@ Como acabamos de ver, en Python existen al menos números y booleanos. Sin embar
 |  Tipo de dato |  Representa             |  Ejemplo |  Operaciones                   |
 |---------------|-------------------------|----------|--------------------------------|
 |Números        |cantidades               | `4947`   | `+`, `-`, `*`, `%`, `<`, etc   |
-|Boolean        |valores de verdad        | `True`   | `&&`, `!`, etc
+|Booleanos      |valores de verdad        | `True`   | `and`, `not`, etc
 |Strings        |texto                    | `"hola"` | ...en breve lo veremos...      |
 |Listas         |conjuntos de cosas       | `[1, 9]` | ...en breve lo veremos...      |
 
@@ -20,6 +20,6 @@ Además, existen operaciones que sirven para todos los tipos de datos, por ejemp
 > * `5 + 6` (ok, los números se pueden sumar)
 > * `5 == 6` (ok, todas las cosas se pueden comparar)
 > * `8 > 6` (ok, los números se pueden ordenar)
-> * `!True` (ok, los booleanos se pueden _negar_)
+> * `not True` (ok, los booleanos se pueden _negar_)
 > * `False / True` (no está bien, ¡los booleanos no se pueden dividir!)
 
