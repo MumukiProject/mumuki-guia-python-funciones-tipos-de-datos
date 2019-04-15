@@ -7,4 +7,4 @@ Por ejemplo:
 "¡MIGUEL!"
 ```
 
-> Escribí la función `gritar`. Podés usar la función `str.uppercase`, que, convierte en mayúsculas un string
+> Escribí la función `gritar`. Podés usar la función `str.upper`, que, convierte en mayúsculas un string
