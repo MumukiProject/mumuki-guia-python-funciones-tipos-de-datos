@@ -18,4 +18,4 @@ Por eso, necesitamos una función que tome la cantidad de agua que tiene actualm
 0
 ```
 
-> Escribí la función `cuanto_carga`
+> Escribí la función `cuanto_carga`.
