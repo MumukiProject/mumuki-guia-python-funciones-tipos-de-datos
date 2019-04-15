@@ -1,44 +1,43 @@
-describe("", () => {
-  it("esNumeroDeLaSuerte(2) es verdadero", () => {
-      assert(esNumeroDeLaSuerte(2));
-  })
-  it("esNumeroDeLaSuerte(4) es verdadero", () => {
-      assert(esNumeroDeLaSuerte(4));
-  })
-  it("esNumeroDeLaSuerte(6) es verdadero", () => {
-      assert(esNumeroDeLaSuerte(6));
-  })
-  it("esNumeroDeLaSuerte(8) es verdadero", () => {
-      assert(esNumeroDeLaSuerte(8));
-  })
-  it("esNumeroDeLaSuerte(9) es verdadero", () => {
-      assert(esNumeroDeLaSuerte(9));
-  })
-  it("esNumeroDeLaSuerte(81) es verdadero", () => {
-      assert(esNumeroDeLaSuerte(81));
-  })
-  it("esNumeroDeLaSuerte(12456) es verdadero", () => {
-      assert(esNumeroDeLaSuerte(12456));
-  })
-  it("esNumeroDeLaSuerte(3003) es verdadero", () => {
-      assert(esNumeroDeLaSuerte(3003));
-  })
-  it("esNumeroDeLaSuerte es verdadero si es multiplo de 2", () => {
-      assert(esNumeroDeLaSuerte(4654));
-  })
-  it("esNumeroDeLaSuerte es falso si no es multiplo de 2 ni de 3", () => {
-      assert(!esNumeroDeLaSuerte(49));
-  })
-  it("esNumeroDeLaSuerte es falso si no es positivo", () => {
-      assert(!esNumeroDeLaSuerte(-3));
-  })
-  it("esNumeroDeLaSuerte(-4) es falso", () => {
-      assert(!esNumeroDeLaSuerte(-4));
-  })
-  it("esNumeroDeLaSuerte(7) es falso", () => {
-      assert(!esNumeroDeLaSuerte(7));
-  })
-  it("esNumeroDeLaSuerte(15) es falso", () => {
-      assert(!esNumeroDeLaSuerte(15));
-  })
-})
+  def test_esNumeroDeLaSuerte_2_es_verdadero(self):
+    self.assertTrue(esNumeroDeLaSuerte(2))
+
+  def test_esNumeroDeLaSuerte_4_es_verdadero(self):
+    self.assertTrue(esNumeroDeLaSuerte(4))
+
+  def test_esNumeroDeLaSuerte_6_es_verdadero(self):
+    self.assertTrue(esNumeroDeLaSuerte(6))
+
+  def test_esNumeroDeLaSuerte_8_es_verdadero(self):
+    self.assertTrue(esNumeroDeLaSuerte(8))
+
+  def test_esNumeroDeLaSuerte_9_es_verdadero(self):
+    self.assertTrue(esNumeroDeLaSuerte(9))
+
+  def test_esNumeroDeLaSuerte_81_es_verdadero(self):
+    self.assertTrue(esNumeroDeLaSuerte(81))
+
+  def test_esNumeroDeLaSuerte_12456_es_verdadero(self):
+    self.assertTrue(esNumeroDeLaSuerte(12456))
+
+  def test_esNumeroDeLaSuerte_3003_es_verdadero(self):
+    self.assertTrue(esNumeroDeLaSuerte(3003))
+
+  def test_esNumeroDeLaSuerte_es_verdadero_si_es_multiplo_de_2(self):
+    self.assertTrue(esNumeroDeLaSuerte(4654))
+
+  def test_esNumeroDeLaSuerte_es_also_si_no_es_multiplo_de_2_ni_de_3(self):
+    self.assertTrue(not esNumeroDeLaSuerte(49))
+
+  def test_esNumeroDeLaSuerte_es_also_si_no_es_positivo(self):
+    self.assertTrue(not esNumeroDeLaSuerte(-3))
+
+  def test_esNumeroDeLaSuerte_menos_4_es_falso(self):
+    self.assertTrue(not esNumeroDeLaSuerte(-4))
+
+  def test_esNumeroDeLaSuerte_7_es_falso(self):
+    self.assertTrue(not esNumeroDeLaSuerte(7))
+
+  def test_esNumeroDeLaSuerte_15_es_falso(self):
+    self.assertTrue(not esNumeroDeLaSuerte(15))
+
+

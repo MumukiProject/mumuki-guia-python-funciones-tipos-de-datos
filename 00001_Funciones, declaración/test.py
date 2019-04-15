@@ -1,13 +1,13 @@
-describe("", function() {
-  it("mitad de 2 es 1", function() {
-    assert.equal(mitad(2), 1);
-  });
-  
-  it("mitad de 20 es 10", function() {
-    assert.equal(mitad(20), 10);
-  });
-  
-  it("mitad de 10 es 5", function() {
-    assert.equal(mitad(10), 5);
-  });
-})
+
+  def test_mitad_de_2_es_1(self):
+    self.assertEqual(mitad(2), 1)
+
+
+  def test_mitad_de_20_es_10(self):
+    self.assertEqual(mitad(20), 10)
+
+
+  def test_mitad_de_10_es_5(self):
+    self.assertEqual(mitad(10), 5)
+
+

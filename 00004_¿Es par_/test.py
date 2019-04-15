@@ -1,21 +1,20 @@
-describe('', function() {
-  it("es_par(2) es verdadero", function() {
-    assert(es_par(2));
-  });
+  def test_es_par_2_es_verdadero(self):
+    self.assertTrue(es_par(2))
 
-  it("es_par(8) es verdadero", function() {
-    assert(es_par(8));
-  });
 
-  it("es_par(9890) es verdadero", function() {
-    assert(es_par(9890));
-  });
+  def test_es_par_8_es_verdadero(self):
+    self.assertTrue(es_par(8))
 
-  it("es_par(1) es falso", function() {
-    assert(!es_par(1));
-  });
 
-  it("es_par(879) es falso", function() {
-    assert(!es_par(879));
-  });
-})
+  def test_es_par_9890_es_verdadero(self):
+    self.assertTrue(es_par(9890))
+
+
+  def test_es_par_1_es_falso(self):
+    self.assertTrue(not es_par(1))
+
+
+  def test_es_par_879_es_falso(self):
+    self.assertTrue(not es_par(879))
+
+

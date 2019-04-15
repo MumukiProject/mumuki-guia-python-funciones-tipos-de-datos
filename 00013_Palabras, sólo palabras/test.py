@@ -1,14 +1,14 @@
-describe("", function() {
-  it('es_fin_de_semana("sábado")', function() {
-    assert(es_fin_de_semana("sábado"));
-  });
-  it('es_fin_de_semana("domingo")', function() {
-    assert(es_fin_de_semana("domingo"));
-  });
-  it('es_fin_de_semana("lunes")', function() {
-    assert(!es_fin_de_semana("lunes"));
-  })
-  it('es_fin_de_semana("jueves")', function() {
-    assert(!es_fin_de_semana("jueves"));
-  })
-})
+
+  def test_es_fin_de_semana_sábado(self):
+    assert(es_fin_de_semana("sábado"))
+
+  def test_es_fin_de_semana_domingo(self):
+    assert(es_fin_de_semana("domingo"))
+
+  def test_es_fin_de_semana_lunes(self):
+    assert(not es_fin_de_semana("lunes"))
+
+  def test_es_fin_de_semana_jueves(self):
+    assert(not es_fin_de_semana("jueves"))
+
+

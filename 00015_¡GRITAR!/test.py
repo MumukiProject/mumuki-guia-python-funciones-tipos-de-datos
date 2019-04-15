@@ -1,11 +1,11 @@
-describe("", function() {
-  it('gritar("miguel")', function() {
-    assert.equal(gritar("miguel"), "¡MIGUEL!");
-  });
-  it('gritar("gritar")', function() {
-    assert.equal(gritar("gritar"), "¡GRITAR!");
-  });
-  it('gritar("minuto")', function() {
-    assert.equal(gritar("minuto"), "¡MINUTO!");
-  });
-})
+
+  def test_gritar_miguel_(self):
+    self.assertEqual(gritar("miguel"), "¡MIGUEL!")
+
+  def test_gritar_gritar_(self):
+    self.assertEqual(gritar("gritar"), "¡GRITAR!")
+
+  def test_gritar_minuto_(self):
+    self.assertEqual(gritar("minuto"), "¡MINUTO!")
+
+
