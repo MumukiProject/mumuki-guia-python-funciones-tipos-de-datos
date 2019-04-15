@@ -15,7 +15,7 @@ function doble(numero) {
 }
 ```
 
-...notarás que los paréntesis en el `return` no son necesarios, y que la última línea la terminamos con `;`.
+...notarás que los paréntesis en el `return` no son necesarios.
 
 > Veamos si se va entendiendo: escribí ahora una función Python `mitad`, que tome un número y devuelva su mitad. Tené en cuenta que el operador de división en Python es `/`.
 
