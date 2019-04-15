@@ -4,7 +4,7 @@ Ninguna introducción al lenguaje Python estaría completa sin mostrar al menos 
 ```python
 # Equivalente a abs
 def valor_absoluto(numero):
-   if (numero >= 0)
+   if (numero >= 0):
     return numero
    else:
     return -numero
