@@ -12,10 +12,8 @@ Y además podemos usarlas dentro de otras funciones. Por ejemplo:
 def doble(numero):
   return 2 * numero
 
-
 def siguiente_del_doble(numero):
   return doble(numero) + 1
-
 ```
 
 O incluso mejor:
@@ -24,14 +22,11 @@ O incluso mejor:
 def doble(numero):
   return 2 * numero
 
-
 def siguiente(numero):
   return numero + 1
 
-
 def siguiente_del_doble(numero):
-  return siguiente(doble(numero));
-
+  return siguiente(doble(numero))
 ```
 
 > Veamos si se entiende; escribí las siguientes funciones:
