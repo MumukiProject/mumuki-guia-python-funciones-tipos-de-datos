@@ -11,10 +11,10 @@
 
 
   def test_es_par_1_es_falso(self):
-    self.assertTrue(not es_par(1))
+    self.assertFalse(es_par(1))
 
 
   def test_es_par_879_es_falso(self):
-    self.assertTrue(not es_par(879))
+    self.assertFalse(es_par(879))
 
 

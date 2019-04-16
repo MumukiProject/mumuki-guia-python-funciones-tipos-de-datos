@@ -26,18 +26,18 @@
     self.assertTrue(esNumeroDeLaSuerte(4654))
 
   def test_esNumeroDeLaSuerte_es_also_si_no_es_multiplo_de_2_ni_de_3(self):
-    self.assertTrue(not esNumeroDeLaSuerte(49))
+    self.assertFalse(esNumeroDeLaSuerte(49))
 
   def test_esNumeroDeLaSuerte_es_also_si_no_es_positivo(self):
-    self.assertTrue(not esNumeroDeLaSuerte(-3))
+    self.assertFalse(esNumeroDeLaSuerte(-3))
 
   def test_esNumeroDeLaSuerte_menos_4_es_falso(self):
-    self.assertTrue(not esNumeroDeLaSuerte(-4))
+    self.assertFalse(esNumeroDeLaSuerte(-4))
 
   def test_esNumeroDeLaSuerte_7_es_falso(self):
-    self.assertTrue(not esNumeroDeLaSuerte(7))
+    self.assertFalse(esNumeroDeLaSuerte(7))
 
   def test_esNumeroDeLaSuerte_15_es_falso(self):
-    self.assertTrue(not esNumeroDeLaSuerte(15))
+    self.assertFalse(esNumeroDeLaSuerte(15))
 
 
