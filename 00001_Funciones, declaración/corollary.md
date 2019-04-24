@@ -1,6 +1,6 @@
 Perfecto, ¿viste que no era tan terrible? :stuck_out_tongue_winking_eye:
 
-La principal diferencia la encontramos con aquellas funciones que tengan más de una palabra en su nombre. Veamos como sería en Gobstones una función que nos diga el doble del triple de un número:
+La principal diferencia la encontramos con aquellas funciones que tienen más de una palabra en su nombre. Veamos como sería en Gobstones una función que nos diga el doble del triple de un número:
 
 ```gobstones
 function dobleDelTriple(numero) {
