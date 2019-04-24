@@ -1,3 +1,4 @@
+  
   def test_esNumeroDeLaSuerte_2_es_verdadero(self):
     self.assertTrue(esNumeroDeLaSuerte(2))
 
