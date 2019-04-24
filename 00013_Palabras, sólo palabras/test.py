@@ -1,6 +1,6 @@
 
   def test_es_fin_de_semana_sabado(self):
-    self.assertTrue(es_fin_de_semana("sábado"))
+    self.assertTrue(es_fin_de_semana("sabado"))
 
   def test_es_fin_de_semana_domingo(self):
     self.assertTrue(es_fin_de_semana("domingo"))
