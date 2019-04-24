@@ -7,7 +7,7 @@ function dobleDelTriple(numero) {
   return (numero * 3 * 2)
 }
 ```
-Mientras que su equivalente en Python es
+Mientras que su equivalente en Python es:
 
 ```python
 def doble_del_triple(numero):
