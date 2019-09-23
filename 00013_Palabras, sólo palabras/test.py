@@ -1,14 +1,14 @@
 
-  def test_es_fin_de_semana_sabado(self):
+  def test_el_sabado_es_fin_de_semana(self):
     self.assertTrue(es_fin_de_semana("sábado"))
 
-  def test_es_fin_de_semana_domingo(self):
+  def test_el_domingo_es_fin_de_semana(self):
     self.assertTrue(es_fin_de_semana("domingo"))
 
-  def test_es_fin_de_semana_lunes(self):
+  def test_el_lunes_NO_es_fin_de_semana(self):
     self.assertFalse(es_fin_de_semana("lunes"))
 
-  def test_es_fin_de_semana_jueves(self):
-    self.assertFalse(es_fin_de_semana("jueves"))
+  def test_el_viernes_NO_es_fin_de_semana(self):
+    self.assertFalse(es_fin_de_semana("viernes"))
 
 
