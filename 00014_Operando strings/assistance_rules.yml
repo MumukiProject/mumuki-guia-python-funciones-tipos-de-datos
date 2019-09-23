@@ -5,4 +5,4 @@ rules:
     these_expectations_failed:
     - "* Not:Uses:startswith"
   then: ":warning: en este ejercicio no necesitás `str.startswith`. Te la contamos
-    sólo como ejemplo :wink:"
+    sólo como ejemplo. :wink:"
