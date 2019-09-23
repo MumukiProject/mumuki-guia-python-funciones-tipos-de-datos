@@ -16,7 +16,7 @@ O también podemos _concatenarlos_, es decir, obtener **uno nuevo** que junta do
 "sus anaqueles registran todas las combinaciones"
 ```
 
-Sin embargo, la sintaxis de algunas funciones de `string`s es _apenitas_ diferente de lo que veníamos haciendo hasta ahora: hay que prefijarlas con `str.`. Por ejemplo, la función que devuelve si un `string` comienza con otro es `str.startswith`:
+:warning: Por otro lado, la sintaxis de algunas funciones de `string`s es _apenitas_ diferente de lo que venimos haciendo: hay que prefijarlas con `str.`. Por ejemplo, la función que devuelve si un `string` comienza con otro es `str.startswith`:
 
 ```python
 ム str.startswith("una página", "una")
