@@ -5,7 +5,7 @@ expectations:
   inspection: Not:UsesIf
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: es_par
-  inspection: Uses:===
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: es_par
   inspection: Uses:%
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: SourceContains:==
