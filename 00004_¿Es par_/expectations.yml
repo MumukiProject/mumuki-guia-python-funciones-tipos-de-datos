@@ -8,4 +8,4 @@ expectations:
   inspection: Uses:%
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: SourceContains:==
+  inspection: SourceContains:===
