@@ -6,3 +6,8 @@ rules:
     - "* Not:Uses:startswith"
   then: ":warning: en este ejercicio no necesitás `str.startswith`. Te la contamos
     sólo como ejemplo :wink:"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_tests_failed:
+    - Se contempla el espacio entre nombre y apellido
+  then: '¿Tuviste en cuenta el `" "` entre nombre y apellido?  :thinking:'
