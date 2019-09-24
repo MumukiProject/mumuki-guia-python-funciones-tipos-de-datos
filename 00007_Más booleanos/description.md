@@ -21,7 +21,7 @@ def es_mayor_de_edad(edad):
 
 Mucho más simple, ¿no? :wink:
 
-> Ema dice que un número es de la suerte si
+> Para Ema un número es de la suerte si:
 >
 > * es positivo, y
 > * es múltiplo de 2 o de 3, y
