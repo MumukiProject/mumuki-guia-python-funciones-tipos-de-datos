@@ -25,7 +25,7 @@ Mucho más simple, ¿no? :wink:
 >
 > * es positivo, y
 > * es múltiplo de 2 o de 3, y
-> * no es el 15
+> * no es el 15.
 >
 > Escribí la función `es_numero_de_la_suerte` que dado un número diga si cumple la lógica anterior.
 >
