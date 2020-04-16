@@ -26,6 +26,6 @@ Como ves, en Python contamos con operadores como `==`, `>=`, `>`, `<`,`<=` que n
 > True
 > ```
 > 
-> Escribí y probá en la consola la función `le_gusta_leer`.
+> Desarrollá y probá en la consola la función `le_gusta_leer`.
 
 
