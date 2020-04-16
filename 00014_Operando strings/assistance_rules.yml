@@ -11,4 +11,4 @@ rules:
     these_tests_failed:
     - No falta contemplar el espacio
   then: Parece que no estás contemplando el espacio; la `longitud_nombre_completo`
-    debe devolver `1` más que las longitudes de `nombre` y `apellido`
+    debe devolver `1` más que las longitudes sumadas de `nombre` y `apellido`
