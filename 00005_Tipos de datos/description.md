@@ -1,11 +1,10 @@
-Como acabamos de ver, en Python existen al menos números y booleanos. Sin embargo, no son los únicos tipos de datos:
+Como acabamos de ver, en Python existen números, booleanos y strings:
 
 |  Tipo de dato |  Representa             |  Ejemplo |  Operaciones                   |
 |---------------|-------------------------|----------|--------------------------------|
 |Números        |cantidades               | `4947`   | `+`, `-`, `*`, `%`, `<`, etc   |
 |Booleanos      |valores de verdad        | `True`   | `and`, `not`, etc
-|Strings        |texto                    | `"hola"` | ...en breve lo veremos...      |
-|Listas         |conjuntos de cosas       | `[1, 9]` | ...en breve lo veremos...      |
+|Strings        |texto                    | `"hola"` | `str.upper`, `str.startswith`, `len` |
 
 
 Además, existen operaciones que sirven para todos los tipos de datos, por ejemplo:
