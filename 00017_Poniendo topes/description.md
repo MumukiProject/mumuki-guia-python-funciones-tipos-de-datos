@@ -1,4 +1,4 @@
-_Hagamos un alto en nuestro camino y miremos las funciones `max` y `min`, que nos pueden ahorrar más trabajo del que parece_.
+_Hagamos un alto en nuestro camino y miremos las funciones `max` y `min`, que nos pueden ahorrar más trabajo del que parece_
 
 Necesitamos una función que diga cuánta plata queda en tu cuenta (que tiene un cierto `saldo`) si extráes un cierto `monto`:
 
