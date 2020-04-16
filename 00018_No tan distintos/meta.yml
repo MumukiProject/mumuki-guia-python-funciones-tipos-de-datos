@@ -1,0 +1,27 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: No escribimos llaves, pero ponemos un `:` en la apertura
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Los nombres de las funciones se escriben con mayúscula
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Los nombres de los parámetros se escriben con mayúscula
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Los paréntesis alrededor del retorno no son necesarios
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Escribimos `def` en lugar de `function`
+  checked: true
+name: No tan distintos
