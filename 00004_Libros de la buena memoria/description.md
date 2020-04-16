@@ -5,7 +5,7 @@ def es_dia_favorito(dia_del_mes):
   return dia_del_mes == 1 
 ```
 
-...y la usa así (y la dejó en la biblioteca para que la pruebes): 
+...y la usa así (_y la dejó en la biblioteca para que la pruebes_): 
 
 ```python
 ム es_dia_favorito(13)
