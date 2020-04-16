@@ -1,0 +1,36 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`4 + 4` vale 8"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`"4" + "4"` vale `"44"`'
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`4 + 4` vale `"44"`'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`"on" + `"ce"` vale `"once"`'
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`True and False` vale `False`"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`True and False` vale `0`"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`5 >= 6` vale `False`"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`not True` vale `False`"
+  checked: true
+name: Datos de todo tipo

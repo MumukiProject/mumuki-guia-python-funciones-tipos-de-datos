@@ -7,7 +7,7 @@ Como acabamos de ver, en Python existen números, booleanos y strings:
 |Strings        |texto                    | `"hola"` | `str.upper`, `str.startswith`, `len` |
 
 
-Además, existen operaciones que sirven para todos los tipos de datos, por ejemplo:
+Además, existen operaciones que sirven para todos los _tipos de datos_, por ejemplo:
 
 * `==`: nos dice si dos cosas son iguales
 * `!=`: nos dice si dos cosas son diferentes
