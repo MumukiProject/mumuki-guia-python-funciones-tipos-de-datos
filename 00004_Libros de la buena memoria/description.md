@@ -1,11 +1,11 @@
-¡Veamos más operadores! Dani ama el primer dia de cada mes :date:, y por eso escribó esta función: 
+¡Veamos más operadores! Dani ama el primer dia de cada mes :date:, y por eso escribó esta función... 
 
 ```python
 def es_dia_favorito(dia_del_mes):
   return dia_del_mes == 1 
 ```
 
-Y la usa así: 
+...y la usa así: 
 
 ```python
 ム es_dia_favorito(13)
