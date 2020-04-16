@@ -19,7 +19,7 @@ choices:
   value: '`4 + 4` vale `"44"`'
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`"on" + `"ce"` vale `"once"`'
+  value: '`"on" + "ce"` vale `"once"`'
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "`True and False` vale `False`"
