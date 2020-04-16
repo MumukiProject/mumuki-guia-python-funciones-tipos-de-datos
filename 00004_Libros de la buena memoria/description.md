@@ -5,7 +5,7 @@ def es_dia_favorito(dia_del_mes):
   return dia_del_mes == 1 
 ```
 
-...y la usa así: 
+...y la usa así (la dejó en la biblioteca para que la pruebes): 
 
 ```python
 ム es_dia_favorito(13)
@@ -26,6 +26,6 @@ Como ves, en Python contamos con operadores como: `==`, `>=`, `>`, `<`,`<=` que 
 > True
 > ```
 > 
-> **Escribí y probá en la consola** la función `le_gusta_leer`.
+> Escribí y probá en la consola la función `le_gusta_leer`.
 
 
