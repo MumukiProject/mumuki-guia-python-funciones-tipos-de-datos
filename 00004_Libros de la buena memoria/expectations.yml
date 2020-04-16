@@ -8,4 +8,7 @@ expectations:
   inspection: Uses:%
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: SourceContains:==
+  inspection: Uses:==
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Except:HasRedundantIf

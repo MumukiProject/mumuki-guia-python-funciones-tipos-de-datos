@@ -1,4 +1,4 @@
-Hagamos una función más: `le_gusta_leer`, que nos dice si la cantidad de libros que leyó una persona es mayor a 20. Por ejemplo:
+Hagamos una función más: Dani dice que a alguien `le_gusta_leer`, cuando la cantidad de libros que recuerda haber leído es mayor a 20. Por ejemplo:
 
 ```python
 ム le_gusta_leer(15)
