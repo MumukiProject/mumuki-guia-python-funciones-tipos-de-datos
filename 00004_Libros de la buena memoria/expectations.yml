@@ -1,14 +1,8 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: es_par
-  inspection: Not:UsesIf
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: es_par
-  inspection: Uses:%
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: Uses:==
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Except:HasRedundantIf
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:le_gusta_leer
