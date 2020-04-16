@@ -14,7 +14,7 @@ False
 True
 ```
 
-Como ves, en Python contamos con operadores como: `==`, `>=`, `>`, `<`,`<=` que nos dicen si dos valores son iguales, mayores-o-iguales, mayores, etc. Los vamos a usar bastante :grin:.
+Como ves, en Python contamos con operadores como `==`, `>=`, `>`, `<`,`<=` que nos dicen si dos valores son iguales, mayores-o-iguales, mayores, etc. Los vamos a usar bastante :grin:.
 
 > ¡Ahora te toca a vos! Dani también dice que a alguien `le_gusta_leer`, cuando la cantidad de libros que recuerda haber leído es mayor a 20. Por ejemplo:
 > 
