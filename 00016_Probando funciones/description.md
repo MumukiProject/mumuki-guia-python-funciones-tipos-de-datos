@@ -1,6 +1,6 @@
 Quizás ya lo notaste pero, junto al editor, ahora aparece una solapa nueva: la _consola_.
 
-La consola es una herramienta muy útil para hacer pruebas rápidas sobre lo que estás haciendo: te permite, por ejemplo, probar _expresiones_, funciones que vengan con Python, **o incluso funciones que vos definas en el editor**.
+La consola es una herramienta muy útil para hacer pruebas rápidas sobre lo que estás haciendo: te permite, por ejemplo, probar _expresiones_, funciones que vengan con Python :snake:, **o incluso funciones que vos definas en el editor**.
 
 La podés reconocer fácilmente porque arranca con el chirimbolito `ム`, que se llama _[prompt](https://es.wikipedia.org/wiki/Prompt)_.
 
