@@ -12,6 +12,6 @@ Para entender mejor cómo funciona, en qué puede ayudarnos y algunos consejos s
 >
 >   * `4 + 5`
 >   * `abs(-20)`
->   * `funcion_misteriosa(1, 2, 3)` (asumí que ya la codificamos nosotros por vos)
+>   * `funcion_misteriosa(1, 2, 3)` (asumí que ya la codificamos por vos)
 
 
