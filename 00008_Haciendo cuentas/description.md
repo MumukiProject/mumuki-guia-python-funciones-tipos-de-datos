@@ -1,4 +1,4 @@
-Además de los operadores matemáticos `+`, `-`, `/` y `*`, existen muchas otras funciones matemáticas comunes, algunas de las cuales ya vienen con Python y están listas para ser usadas. Por ejemplo, la función que devuelve el valor absoluto de un número es `abs`:
+Además de los operadores matemáticos `+`, `-`, `/` y `*`, existen muchas otras funciones matemáticas comunes, algunas de las cuales ya vienen con Python y están listas para ser usadas. Por ejemplo, la función que retorna el valor absoluto de un número es `abs`:
 
 ```python
 def doble_del_valor_absoluto(numero):
