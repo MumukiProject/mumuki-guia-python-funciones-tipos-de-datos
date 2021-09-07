@@ -14,4 +14,4 @@ def doble_del_triple(numero):
   return numero * 3 * 2
 ```
 
-En Gobstones escribimos los nombres de las funciones poniendo en mayúsculas la primer letra de cada palabra, mientras que en Python siempre usamos minúsculas y dividimos las palabras con `_`. Esta forma de escribir los nombres se conocen como _Camel Case_ y _Snake Case_ respectivamente.
+En Gobstones escribimos los nombres de las funciones poniendo en minúsculas la primera palabra y en mayúsculas la primera letra de cada palabra que le siga. En Python, sin embargo, siempre usamos minúsculas y dividimos las palabras con `_`. Esta forma de escribir los nombres se conocen como _Camel Case_ y _Snake Case_ respectivamente.
